@@ -1,6 +1,6 @@
 <?php
 
-namespace Classes;
+namespace PCX\Classes;
 
 class View
 {
