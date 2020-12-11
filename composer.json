@@ -1,6 +1,6 @@
 {
-    "name": "webpajooh/php_compact_and_extract",
-    "type": "project",
+    "name": "dev/php-compact-and-extract",
+    "type": "library",
     "authors": [
         {
             "name": "webpajooh",
@@ -10,7 +10,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-          "Classes\\": "Classes/"
+            "PCX\\Classes\\": "Classes/"
         }
     }
 }
