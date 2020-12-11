@@ -1,0 +1,16 @@
+{
+    "name": "webpajooh/php_compact_and_extract",
+    "type": "project",
+    "authors": [
+        {
+            "name": "webpajooh",
+            "email": "webpajooh@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+          "Classes\\": "Classes/"
+        }
+    }
+}
